@@ -73,7 +73,7 @@ make
 
 ### 4. 下载预编译程序
 
-从这里下载预编译好的程序 [release](https://github.com/Sansui233/proxypool/releases)。
+从这里下载预编译好的程序 [release](https://github.com/zmzaxg/proxypool/releases)。
 
 ### 5. 使用docker
 
